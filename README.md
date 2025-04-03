@@ -1,1 +1,1 @@
-# DC_motor_speed_control
+# DC motor speed control simulation in Matlab and Simulink
