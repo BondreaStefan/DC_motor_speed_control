@@ -1,6 +1,9 @@
 # DC motor speed control simulation in Matlab and Simulink
 A simulation of a control system for a DC motor with Linear voltage control through the use of a PI regulator
 Control system:
+
+
+
 <img width="685" alt="Screenshot_2" src="https://github.com/user-attachments/assets/60c37666-f1a8-4b0c-8f36-d248838ee3f1" />
 
 DC motor implementation:
