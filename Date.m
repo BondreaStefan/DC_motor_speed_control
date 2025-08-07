@@ -42,3 +42,5 @@ w = 500; %[rad/s] - pulsatia naturala dorita w = 1/tau_em
 tzeta = 0.707; %[-] - factorul de amortizare
 Kp = (2*tzeta*w - a) / b;
 Ki = w^2/b;
+
+%copy
